@@ -1,6 +1,7 @@
 package main;
 
 public class Author {
+	//private biar gabisa diganti2
 	private String nama;
 	private String biografi;
 	
@@ -15,7 +16,4 @@ public class Author {
 	public String getBiografi() {
 		return biografi;
 	}
-//	public static void Add(){
-//		System.out.println("Book added to library: " + );
-//	}
 }
